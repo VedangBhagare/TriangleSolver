@@ -18,6 +18,7 @@ namespace TriangleTests
 
         [TestMethod]
         public void AnalyzeTriangle_Isosceles_ReturnsIsosceles_Case1()
+
         {
             // Arrange.
             int side1 = 4, side2 = 6, side3 = 6;
