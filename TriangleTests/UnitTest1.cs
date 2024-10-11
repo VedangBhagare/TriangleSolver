@@ -58,6 +58,7 @@ namespace TriangleTests
 
         [TestMethod]
         public void AnalyzeTriangle_Scalene_ReturnsScalene_Case1()
+
         {
             // Arrange.
             int side1 = 2, side2 = 3, side3 = 4;
