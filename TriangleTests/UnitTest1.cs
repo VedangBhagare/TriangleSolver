@@ -9,6 +9,7 @@ namespace TriangleTests
     {
         [TestMethod]
         public void TestEquilateralTriangle()
+
         {
             int side1 = 5, side2 = 5, side3 = 5;
             var result = Triangle.AnalyzeTriangle(side1, side2, side3);
